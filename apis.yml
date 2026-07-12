@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.breezometer.com/api-documentation/pollen-api/v2/
 common:
+  - type: DomainSecurity
+    url: security/breezometer-pollen-domain-security.yml
   - type: Website
     url: https://docs.breezometer.com/api-documentation/pollen-api/v2/
   - type: PublicAPIsListing
