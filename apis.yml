@@ -1,4 +1,16 @@
 aid: breezometer-pollen
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/breezometer-pollen.png
 name: BreezoMeter Pollen
 description: "Daily Forecast pollen conditions data for a specific location"
 url: https://docs.breezometer.com/api-documentation/pollen-api/v2/
