@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://docs.breezometer.com/api-documentation/pollen-api/v2/', status: 301, note: 'declared website redirects to https://mapsplatform.google.com:443/maps-products/#environment-section — a different registrable domain (breezometer.com -> google.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/breezometer-pollen.png
 name: BreezoMeter Pollen
 description: "Daily Forecast pollen conditions data for a specific location"
