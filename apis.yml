@@ -41,7 +41,6 @@ apis:
   - name: BreezoMeter Pollen
     description: "Daily Forecast pollen conditions data for a specific location"
     humanURL: https://docs.breezometer.com/api-documentation/pollen-api/v2/
-    baseURL: https://docs.breezometer.com/api-documentation/pollen-api/v2/
     tags:
       - Environment
     properties:
